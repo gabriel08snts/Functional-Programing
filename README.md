@@ -1,2 +1,2 @@
 # Functional-Programing
-Meus estudos em linguagem funcional com javascript.
+My studies in functional language with javascript.
